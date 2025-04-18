@@ -1,5 +1,5 @@
-= Themen 
-== 2. Zahlen und Maße
+# Themen 
+## 2. Zahlen und Maße
 - [ ] 2.7 Lineare Gleichungssysteme `f(x) = k*x + d`
 - [ ] 2.8 Lineares Gleichungssystem `f(x) = k*x + d` 
 - [ ] 2.9 Quadratisches Gleichungssystem `f(x) = ax^2 + bx + c`
@@ -7,7 +7,7 @@
 - [ ] 2.11 Polynomgleichungen, Exponentialgleichungen und trigonometrische Gleichungen
 - [ ] 2.12 Trigonometrie mit Sinus, Cosinus und Tangens
 
-== 3. Funktionale Zusammenhänge
+## 3. Funktionale Zusammenhänge
 - [ ] 3.3 Graphen von Potenzfunktionen `f(x) = c * x^n`
 - [ ] 3.4 Null-, Extrem- und Wendestellen & Monotonieverhalten bei Polynomfunktionen zweiten Grades
 - [ ] 3.5 Exponentialfunktionen
@@ -16,7 +16,7 @@
 - [ ] 3.9 Anwendungsbezogene Problemstellungen (Lineare-, Polynom- und Exponentialfunktionen)
 - [ ] 3.10 Bogenmaß, Winkel und `sin(x)` & `cos(x)` & `tan(x)` Graphen verstehen
 
-== 4. Analysis
+## 4. Analysis
 - [ ] 4.1 Grenzwerte und Stetigkeit von Funktionen
 - [ ] 4.2 Mittlere und lokale Änderungsraten
 - [ ] 4.3 Ableitungsregeln & Ableitung bestimmen
@@ -26,7 +26,7 @@
 - [ ] 4.7 Bestimmtes Integral Part 1
 - [ ] 4.8 Bestimmtes Integral Part 2
 
-== 5. Stochastik
+## 5. Stochastik
 - [ ] 5.1 Daten statistisch analysieren, darstellen und anhand diesen argumentieren
 - [ ] 5.2 Boxplots & Lage- und Streuungsmaße empirischer Daten
 - [ ] 5.3 Wahrscheinlichkeitsrechnung & Zusammenhang Wahrscheinlichkeit und Häufigkeiten
