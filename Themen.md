@@ -1,7 +1,7 @@
 # Themen 
 ## 1. Zahlen und Maße
 - [ ] B_T_1.1 Fehlerrechnung
-- [ ] B_T2_1.2 Komplexe Zahlung 
+- [ ] B_T2_1.2 Komplexe Zahlen 
 
 ## 2. Zahlen und Maße
 - [ ] 2.7 Lineare Gleichungssysteme `f(x) = k*x + d`
