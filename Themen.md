@@ -4,9 +4,8 @@
 - [x] B_T2_1.2 Komplexe Zahlen 
 
 ## 2. Zahlen und Maße
-- [ ] 2.7 Lineare Gleichungssysteme `f(x) = k*x + d`
-- [ ] 2.8 Lineares Gleichungssystem `f(x) = k*x + d` 
-- [ ] 2.9 Quadratisches Gleichungssystem `f(x) = ax^2 + bx + c`
+- [x] 2.7, 2.8 Lineare Gleichungssysteme `f(x) = k*x + d`
+- [x] 2.9 Quadratisches Gleichungssystem `f(x) = ax^2 + bx + c`
 - [ ] 2.10 Exponentialgleichungen
 - [ ] 2.11 Polynomgleichungen, Exponentialgleichungen und trigonometrische Gleichungen
 - [ ] 2.12 + B_T_2.1 Trigonometrie mit Sinus, Cosinus und Tangens
