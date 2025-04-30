@@ -48,7 +48,7 @@
 - [ ] 5.1 Daten statistisch analysieren, darstellen und anhand diesen argumentieren
 - [ ] 5.2 Boxplots & Lage- und Streuungsmaße empirischer Daten
 - [x] 5.3 Wahrscheinlichkeitsrechnung & Zusammenhang Wahrscheinlichkeit und Häufigkeiten
-- [ ] 5.4 Wahrscheinlichkeitsrechnung anhand Baumdiagramme
+- [x] 5.4 Wahrscheinlichkeitsrechnung anhand Baumdiagramme
 - [ ] 5.5 Binomialverteilung modellieren und berechnen
 - [ ] 5.6 Normalverteilung und Wahrscheinlichkeitsdichte
 - [ ] B_T_5.1 Normalverteilung mit μ und σ
