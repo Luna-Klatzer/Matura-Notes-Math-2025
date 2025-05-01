@@ -3,7 +3,7 @@
 - [x] B_T_1.1 Fehlerrechnung
 - [x] B_T2_1.2 Komplexe Zahlen 
 
-## 2. Zahlen und Maße
+## 2. Algebra und Geometrie
 - [x] 2.7, 2.8 Lineare Gleichungssysteme `f(x) = k*x + d`
 - [x] 2.9 Quadratisches Gleichungssystem `f(x) = ax^2 + bx + c`
 - [x] 2.10 Exponentialgleichungen
