@@ -45,7 +45,7 @@
 - [ ] B_T2_4.7 Trennen der Variablen (homogene und inhomogene Differenzialgleichung, allgemeine und spezielle Lösung)
 
 ## 5. Stochastik
-- [ ] 5.1 Daten statistisch analysieren, darstellen und anhand diesen argumentieren
+- [x] 5.1 Daten statistisch analysieren, darstellen und anhand diesen argumentieren
 - [ ] 5.2 Boxplots & Lage- und Streuungsmaße empirischer Daten
 - [x] 5.3 Wahrscheinlichkeitsrechnung & Zusammenhang Wahrscheinlichkeit und Häufigkeiten
 - [x] 5.4 Wahrscheinlichkeitsrechnung anhand Baumdiagramme
