@@ -27,7 +27,7 @@
 - [ ] B_T2_3.3 Vorheriges mit Polynomfunktionen und `sin` & `cos` Verschiebung / Abänderung
 - [ ] B_T2_3.4 Logarithmische Skalierung
 
-## 4. Analysis
+## 4. Analyse
 - [ ] 4.1 Grenzwerte und Stetigkeit von Funktionen
 - [ ] 4.2 Mittlere und lokale Änderungsraten
 - [ ] 4.3 Ableitungsregeln & Ableitung bestimmen
