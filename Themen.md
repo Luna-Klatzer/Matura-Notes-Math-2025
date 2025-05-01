@@ -51,7 +51,7 @@
 - [x] 5.4 Wahrscheinlichkeitsrechnung anhand Baumdiagramme
 - [x] 5.5 Binomialverteilung modellieren und berechnen
 - [x] 5.6 Normalverteilung und Wahrscheinlichkeitsdichte
-- [ ] B_T_5.1 Normalverteilung mit μ und σ
+- [x] B_T_5.1 Normalverteilung mit μ und σ
 - [ ] B_T_5.2 Stichprobenmittelwerte
 - [ ] B_T_5.3 Konfidenzintervalle mit μ und σ in der Normalverteilung
 - [ ] B_T_5.4 Lineare Regression und Korrelation (Korrelationskoeffizient & Methode der kleinsten Quadrate)
