@@ -50,7 +50,7 @@
 - [x] 5.3 Wahrscheinlichkeitsrechnung & Zusammenhang Wahrscheinlichkeit und Häufigkeiten
 - [x] 5.4 Wahrscheinlichkeitsrechnung anhand Baumdiagramme
 - [x] 5.5 Binomialverteilung modellieren und berechnen
-- [ ] 5.6 Normalverteilung und Wahrscheinlichkeitsdichte
+- [x] 5.6 Normalverteilung und Wahrscheinlichkeitsdichte
 - [ ] B_T_5.1 Normalverteilung mit μ und σ
 - [ ] B_T_5.2 Stichprobenmittelwerte
 - [ ] B_T_5.3 Konfidenzintervalle mit μ und σ in der Normalverteilung
