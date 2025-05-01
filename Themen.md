@@ -49,7 +49,7 @@
 - [x] 5.2 Boxplots & Lage- und Streuungsmaße empirischer Daten
 - [x] 5.3 Wahrscheinlichkeitsrechnung & Zusammenhang Wahrscheinlichkeit und Häufigkeiten
 - [x] 5.4 Wahrscheinlichkeitsrechnung anhand Baumdiagramme
-- [ ] 5.5 Binomialverteilung modellieren und berechnen
+- [x] 5.5 Binomialverteilung modellieren und berechnen
 - [ ] 5.6 Normalverteilung und Wahrscheinlichkeitsdichte
 - [ ] B_T_5.1 Normalverteilung mit μ und σ
 - [ ] B_T_5.2 Stichprobenmittelwerte
