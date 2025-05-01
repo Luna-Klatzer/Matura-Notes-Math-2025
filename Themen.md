@@ -3,7 +3,7 @@
 - [x] B_T_1.1 Fehlerrechnung
 - [x] B_T2_1.2 Komplexe Zahlen 
 
-## 2. Zahlen und Maße
+## 2. Algebra und Geometrie
 - [x] 2.7, 2.8 Lineare Gleichungssysteme `f(x) = k*x + d`
 - [x] 2.9 Quadratisches Gleichungssystem `f(x) = ax^2 + bx + c`
 - [x] 2.10 Exponentialgleichungen
@@ -27,7 +27,7 @@
 - [ ] B_T2_3.3 Vorheriges mit Polynomfunktionen und `sin` & `cos` Verschiebung / Abänderung
 - [ ] B_T2_3.4 Logarithmische Skalierung
 
-## 4. Analysis
+## 4. Analyse
 - [ ] 4.1 Grenzwerte und Stetigkeit von Funktionen
 - [ ] 4.2 Mittlere und lokale Änderungsraten
 - [ ] 4.3 Ableitungsregeln & Ableitung bestimmen
@@ -45,13 +45,13 @@
 - [ ] B_T2_4.7 Trennen der Variablen (homogene und inhomogene Differenzialgleichung, allgemeine und spezielle Lösung)
 
 ## 5. Stochastik
-- [ ] 5.1 Daten statistisch analysieren, darstellen und anhand diesen argumentieren
-- [ ] 5.2 Boxplots & Lage- und Streuungsmaße empirischer Daten
-- [ ] 5.3 Wahrscheinlichkeitsrechnung & Zusammenhang Wahrscheinlichkeit und Häufigkeiten
-- [ ] 5.4 Wahrscheinlichkeitsrechnung anhand Baumdiagramme
-- [ ] 5.5 Binomialverteilung modellieren und berechnen
-- [ ] 5.6 Normalverteilung und Wahrscheinlichkeitsdichte
-- [ ] B_T_5.1 Normalverteilung mit μ und σ
+- [x] 5.1 Daten statistisch analysieren, darstellen und anhand diesen argumentieren
+- [x] 5.2 Boxplots & Lage- und Streuungsmaße empirischer Daten
+- [x] 5.3 Wahrscheinlichkeitsrechnung & Zusammenhang Wahrscheinlichkeit und Häufigkeiten
+- [x] 5.4 Wahrscheinlichkeitsrechnung anhand Baumdiagramme
+- [x] 5.5 Binomialverteilung modellieren und berechnen
+- [x] 5.6 Normalverteilung und Wahrscheinlichkeitsdichte
+- [x] B_T_5.1 Normalverteilung mit μ und σ
 - [ ] B_T_5.2 Stichprobenmittelwerte
 - [ ] B_T_5.3 Konfidenzintervalle mit μ und σ in der Normalverteilung
 - [ ] B_T_5.4 Lineare Regression und Korrelation (Korrelationskoeffizient & Methode der kleinsten Quadrate)
