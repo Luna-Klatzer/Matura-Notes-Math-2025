@@ -54,5 +54,5 @@
 - [x] B_T_5.1 Normalverteilung mit μ und σ
 - [x] B_T_5.2 Stichprobenmittelwerte
 - [x] B_T_5.3 Konfidenzintervalle mit μ und σ in der Normalverteilung
-- [ ] B_T_5.4 Lineare Regression und Korrelation (Korrelationskoeffizient & Methode der kleinsten Quadrate)
+- [x] B_T_5.4 Lineare Regression und Korrelation (Korrelationskoeffizient & Methode der kleinsten Quadrate)
 - [ ] B_T2_5.5 Ausgleichsfunktionen modellieren (Methode der kleinsten Quadrate)
