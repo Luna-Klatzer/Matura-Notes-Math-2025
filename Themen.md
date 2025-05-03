@@ -9,7 +9,7 @@
 - [x] 2.10 Exponentialgleichungen
 - [x] 2.11 Polynomgleichungen, Exponentialgleichungen und trigonometrische Gleichungen
 - [x] 2.12 + B_T_2.1 Trigonometrie mit Sinus, Cosinus und Tangens
-- [ ] B_T_2.2 Exponential- und Logarithmusrechnungen
+- [x] B_T_2.2 Exponential- und Logarithmusrechnungen
 - [ ] B_T2_2.3 Quadratische Gleichungen inklusive komplexer Lösungen
 - [ ] B_T2_2.4 Vektoren in R2 und R3
 - [ ] B_T2_2.5 Lineare Gleichungssystem in Matrizenschreibweise
