@@ -15,7 +15,7 @@
 - [x] B_T2_2.5 Lineare Gleichungssysteme in Matrizenschreibweise
 
 ## 3. Funktionale Zusammenhänge
-- [ ] 3.3 Graphen von Potenzfunktionen `f(x) = c * x^n`
+- [x] 3.3 Graphen von Potenzfunktionen `f(x) = c * x^n`
 - [ ] 3.4 Null-, Extrem- und Wendestellen & Monotonieverhalten bei Polynomfunktionen zweiten Grades
 - [ ] 3.5 Exponentialfunktionen
 - [ ] 3.6 Lineare und Exponentialfunktionen bestimmen anhand Textaufgabe (bessere Version bestimmen)
