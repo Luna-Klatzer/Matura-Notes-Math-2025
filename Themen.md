@@ -12,7 +12,7 @@
 - [x] B_T_2.2 Exponential- und Logarithmusrechnungen
 - [x] B_T2_2.3 Quadratische Gleichungen inklusive komplexer Lösungen
 - [x] B_T2_2.4 Vektoren in R2 und R3
-- [x] B_T2_2.5 Lineare Gleichungssystem in Matrizenschreibweise
+- [x] B_T2_2.5 Lineare Gleichungssysteme in Matrizenschreibweise
 
 ## 3. Funktionale Zusammenhänge
 - [ ] 3.3 Graphen von Potenzfunktionen `f(x) = c * x^n`
