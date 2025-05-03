@@ -16,7 +16,7 @@
 
 ## 3. Funktionale Zusammenhänge
 - [x] 3.3 Graphen von Potenzfunktionen `f(x) = c * x^n`
-- [ ] 3.4 Null-, Extrem- und Wendestellen & Monotonieverhalten bei Polynomfunktionen zweiten Grades
+- [x] 3.4 Null-, Extrem- und Wendestellen & Monotonieverhalten bei Polynomfunktionen zweiten Grades
 - [ ] 3.5 Exponentialfunktionen
 - [ ] 3.6 Lineare und Exponentialfunktionen bestimmen anhand Textaufgabe (bessere Version bestimmen)
 - [ ] 3.7 Nullstellen einer Polynomfunktion zweiten Grades
