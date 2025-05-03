@@ -8,15 +8,15 @@
 - [x] 2.9 Quadratisches Gleichungssystem `f(x) = ax^2 + bx + c`
 - [x] 2.10 Exponentialgleichungen
 - [x] 2.11 Polynomgleichungen, Exponentialgleichungen und trigonometrische Gleichungen
-- [ ] 2.12 + B_T_2.1 Trigonometrie mit Sinus, Cosinus und Tangens
-- [ ] B_T_2.2 Exponential- und Logarithmusrechnungen
-- [ ] B_T2_2.3 Quadratische Gleichungen inklusive komplexer Lösungen
-- [ ] B_T2_2.4 Vektoren in R2 und R3
-- [ ] B_T2_2.5 Lineare Gleichungssystem in Matrizenschreibweise
+- [x] 2.12 + B_T_2.1 Trigonometrie mit Sinus, Cosinus und Tangens
+- [x] B_T_2.2 Exponential- und Logarithmusrechnungen
+- [x] B_T2_2.3 Quadratische Gleichungen inklusive komplexer Lösungen
+- [x] B_T2_2.4 Vektoren in R2 und R3
+- [x] B_T2_2.5 Lineare Gleichungssysteme in Matrizenschreibweise
 
 ## 3. Funktionale Zusammenhänge
-- [ ] 3.3 Graphen von Potenzfunktionen `f(x) = c * x^n`
-- [ ] 3.4 Null-, Extrem- und Wendestellen & Monotonieverhalten bei Polynomfunktionen zweiten Grades
+- [x] 3.3 Graphen von Potenzfunktionen `f(x) = c * x^n`
+- [x] 3.4 Null-, Extrem- und Wendestellen & Monotonieverhalten bei Polynomfunktionen zweiten Grades
 - [ ] 3.5 Exponentialfunktionen
 - [ ] 3.6 Lineare und Exponentialfunktionen bestimmen anhand Textaufgabe (bessere Version bestimmen)
 - [ ] 3.7 Nullstellen einer Polynomfunktion zweiten Grades
@@ -52,7 +52,7 @@
 - [x] 5.5 Binomialverteilung modellieren und berechnen
 - [x] 5.6 Normalverteilung und Wahrscheinlichkeitsdichte
 - [x] B_T_5.1 Normalverteilung mit μ und σ
-- [ ] B_T_5.2 Stichprobenmittelwerte
-- [ ] B_T_5.3 Konfidenzintervalle mit μ und σ in der Normalverteilung
-- [ ] B_T_5.4 Lineare Regression und Korrelation (Korrelationskoeffizient & Methode der kleinsten Quadrate)
-- [ ] B_T2_5.5 Ausgleichsfunktionen modellieren (Methode der kleinsten Quadrate)
+- [x] B_T_5.2 Stichprobenmittelwerte
+- [x] B_T_5.3 Konfidenzintervalle mit μ und σ in der Normalverteilung
+- [x] B_T_5.4 Lineare Regression und Korrelation (Korrelationskoeffizient & Methode der kleinsten Quadrate)
+- [x] B_T2_5.5 Ausgleichsfunktionen modellieren (Methode der kleinsten Quadrate)
