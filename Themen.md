@@ -22,9 +22,9 @@
 - [ ] 3.7 Nullstellen einer Polynomfunktion zweiten Grades
 - [ ] 3.9 Anwendungsbezogene Problemstellungen (Lineare-, Polynom- und Exponentialfunktionen)
 - [ ] 3.10 Bogenmaß, Winkel und `sin(x)` & `cos(x)` & `tan(x)` Graphen verstehen
-- [ ] B_T_3.1 Funktion & Umkehrfunktion
-- [ ] B_T_3.2 Arbeit mit linearen, quadratischen, Wurzel-, Potenz-, Exponential- und Logarithmusfunktionen, Verschiebung & Skalierung verschiedener Funktionen
-- [ ] B_T2_3.3 Vorheriges mit Polynomfunktionen und `sin` & `cos` Verschiebung / Abänderung
+- [x] B_T_3.1 Funktion & Umkehrfunktion
+- [x] B_T_3.2 Arbeit mit linearen, quadratischen, Wurzel-, Potenz-, Exponential- und Logarithmusfunktionen, Verschiebung & Skalierung verschiedener Funktionen
+- [x] B_T2_3.3 Vorheriges mit Polynomfunktionen und `sin` & `cos` Verschiebung / Abänderung
 - [ ] B_T2_3.4 Logarithmische Skalierung
 
 ## 4. Analyse
